@@ -1,0 +1,339 @@
+{
+	"id": "15afd8fa-c192-4dae-9dac-048136839a79",
+	"name": "LocalHost",
+	"values": [
+		{
+			"key": "url",
+			"value": "https://develop.qacoders-academy.com.br",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "url-generation",
+			"value": "localhost:21165",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "urls",
+			"value": "flutter.qacoders-academy.com.br",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "AddressNumber",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ZipCode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Street",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Complement",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "district",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "City",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Uf",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "AreaCode",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Phone",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CompanyName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Description",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "TelephoneNumber",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "EmailProvider",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Mail",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FirstName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "LastName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "FullName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Country",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Teste",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "LoginUser",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "EmailStudent",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "migrating",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "isWorking",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CurrentRole",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "HowMuchTimer",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "companyname",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Participation",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Social",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Situation",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "status",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "State",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Number",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "RegistrationDate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Migrating",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "IsWorking",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Ano",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Mes",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "HowMuchTime",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "HowDidYouGetTheProject",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Profile",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "ClassName",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Role",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Cpf",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "District",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "PassWord",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "NameUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "MailUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "PhoneUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "CpfUpdate",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "DateNow",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-09-01T22:12:23.158Z",
+	"_postman_exported_using": "Postman/10.17.5"
+}

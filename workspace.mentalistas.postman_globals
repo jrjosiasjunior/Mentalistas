@@ -1,0 +1,45 @@
+{
+	"id": "c54cc4de-13ae-4ee0-86ec-c9fe7d1372f6",
+	"values": [
+		{
+			"key": "IdCompany",
+			"value": "28821853000199",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "LoginUser",
+			"value": "qacoders@qacoders-treinamento.com",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "DateNow",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		},
+		{
+			"key": "Registration",
+			"value": "QACODERS-0001",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Password",
+			"value": "A@b12358",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "Token",
+			"value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2M2ViZDU5ZDJkYmQwOTQyZmQwMGNiZDMiLCJyZWdpc3RyYXRpb24iOiJRYUNvZGVycy0wMDAxIiwiZnVsbE5hbWUiOiJKb3NpYXMgRmlkZWxpcyIsIm1haWwiOiJxYWNvZGVyc0BxYWNvZGVycy10cmVpbmFtZW50by5jb20iLCJwYXNzd29yZCI6IiQyYiQxMCR0MWRmZWJma1NIUGRNenEuUTg3UVRPNW9MVk9wVUp4QTRselF4Vm92ZlI4c3NTVFFydXQ4UyIsImFjY2Vzc1Byb2ZpbGUiOiJBZG1pbiIsImlkQ29tcGFueSI6IjI4LjQ1OC4yNTYvMDAwMS05OSIsInN0YXR1cyI6dHJ1ZSwiYXVkaXQiOlt7InJlZ2lzdHJhdGlvbkRhdGUiOiJUdWUgRmViIDE0IDIwMjMgMTU6NDA6MjkgR01ULTAzMDAgKEhvcsOhcmlvIFBhZHLDo28gZGUgQnJhc8OtbGlhKSIsImxvZ2luVXNlciI6InFhY29kZXJzQHFhY29kZXJzLXRyZWluYW1lbnRvLmNvbSIsIl9pZCI6IjYzZWJkNTlkMmRiZDA5NDJmZDAwY2JkNCJ9XSwiX192IjowLCJpYXQiOjE2NzY0MDAwMjksImV4cCI6MTY3NjQ4NjQyOX0.Oc-IKfpS1Yaq0NW_T4D3ybG9G34ekQWaB5rxROnS9SQ",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2023-09-01T22:08:09.488Z",
+	"_postman_exported_using": "Postman/10.17.5"
+}
